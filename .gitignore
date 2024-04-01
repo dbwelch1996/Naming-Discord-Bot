@@ -1,0 +1,5 @@
+#Python File containing the discords bot's api key. 
+config.py
+
+#Our pycache files
+__pycache__/
